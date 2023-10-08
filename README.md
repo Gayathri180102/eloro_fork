@@ -1,5 +1,5 @@
-<h1>eloro</h1> 
-E waste Management and Reloactor 
+<h1>**eloro** - 
+E waste Management and Reloactor</h1>
 This was a group project that my friends and I built for a hackathon organized at our college. This repository is a modified copy of the submission that was made.
 
 __Teammates:Dinesh Gokul Das, Madhumitha Jagadish, Gayathri M R
