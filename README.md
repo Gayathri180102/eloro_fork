@@ -1,7 +1,10 @@
 <h1>Eloro - E-waste Management</h1>
 This is a group project made for the IEEE IC Hack 2.0.A product eloro to give e-waste a second chance, recycle for sustainable living!!
 
-<h1>Teammates:</h1> @DiniDigo , @madhumithaj15 , @Gayathri180102
+<h1>Teammates:</h1> 
+<a href="https://github.com/Dinidigo">Dinesh Gokul Das,</a>,
+<a href="https://github.com/Gayathri180102">Gayathri M R,</a>
+<a href="https://github.com/madhumithaj15">Madhumitha J.</a>
 
 <h1>PROBLEM STATEMENT:</h1>
 Design and develop a system that can handle e-waste in a sustainable way, and mitigate the environmental and social impacts of e-waste pollution and climate change.
