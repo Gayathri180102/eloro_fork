@@ -1,22 +1,10 @@
-<h1>Eloro - 
-E waste Management and Reloactor</h1>
-This is our solution called eloro for the e waste management in major cities of India which can reduce the impact on climate change.
 
-<h1>Teammates:</h1> @Dinidigo, @madhumithaj15, @Gayathri180102
+  # locofy-html-css-project
 
-<h1>PROBLEM STATEMENT:</h1>Design and develop a system that can handle e-waste in a sustainable way, 
-and mitigate the environmental and social impacts of e-waste pollution and climate change.
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
-<h1>Problem description:</h1>In today's digital world a huge amount of e-waste is being mishandled due to which a lot of pollution occurs which leads to catastrophic effects in climate change. 
-Hence we need to design and develop a system where the e-waste is collected, managed and recycled or dispossed well by bridging the gap between e waste facility centers and the common people.
-
-<h1>Video Link:</h1>
-
-
-<h1>Presentation Link:</h1>
-
-
-<h1>Website URL:</h1>
-
-
-<h1>Future Scope:</h1>
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
