@@ -16,6 +16,9 @@ Design and develop a system where the e-waste is collected, managed and recycled
 <h1>Video Link:</h1>
 <a href="https://drive.google.com/drive/folders/10HaltN4YoLig-aObd-GX9yZk9DsnrKBJ">Link for the video</a>
 
+<h1>Presentation</h1>
+<a href="https://drive.google.com/drive/folders/10HaltN4YoLig-aObd-GX9yZk9DsnrKBJ">PPT Link</a>
+
 <h1>Website URL:</h1>
 <a href="https://saiharichandan.github.io/eloro/index.html">Website link</a>
 
